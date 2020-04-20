@@ -1,0 +1,31 @@
+body{
+	background-color: #D1E7FE;
+}
+
+h1{
+	font-size: 36px;
+	color: #3399FF;
+}
+h2{
+	font-size: 21;
+	color: #0059B2;
+	font-weight: 500; 
+	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
+	font-style: italic;
+}
+
+.big{
+	font-size: 60px;
+}
+
+.cat{
+	text-transform: uppercase;
+}
+
+.big.cat{
+	color: navy;
+}
+
+h1 span{
+	color: red;
+}
